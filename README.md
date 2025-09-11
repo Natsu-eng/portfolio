@@ -1,7 +1,6 @@
 # Portfolio de Mamadou Dian Diallo
 
-Ce projet est un portfolio en ligne moderne et professionnel, créé avec React.js et Tailwind CSS (Vite), pour présenter le parcours, les projets et les compétences de Mamadou Dian Diallo.
-
+Ce projet est un portfolio en ligne moderne et professionnel, créé avec React.js et Tailwind CSS (Vite), pour présenter le parcours, les projets et les compétences de ####
 ## Technologies Utilisées
 
 -   **Framework**: React.js (Vite)
